@@ -1,2 +1,2 @@
 # ChatbotPython
-Repository que contém código referente ao projeto desenvolvido, com a intenção de aprimorar conhecimentos na liguagem python, neste repository contém um chatbot utilizando o telegram
+![opengraph-icon-200x200](https://user-images.githubusercontent.com/53586466/89351528-9613d580-d688-11ea-9600-80adc22293ec.png)
