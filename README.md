@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/Douglas-Cezaro/ChatbotPython">
-	    <img src="https://img.shields.io/badge/author-DouglasCezaro-purple">
+	    <img src="https://img.shields.io/badge/author-DouglasCezaro-greenlight">
 	</a>
     <a href="https://github.com/Douglas-Cezaro/ChatbotPython/search?l=python">
 	    <img src="https://img.shields.io/badge/made%20with-Python-blue">
