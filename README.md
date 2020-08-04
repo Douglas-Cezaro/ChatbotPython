@@ -14,7 +14,7 @@
 </p>
 
 # About 🧾
-Chatbot desenvolvido em Python para utilização no Telegram, o bot interpreta texto e audio, com integração ao banco de dados MYSQL. a intenção do projeto foi conhecer melhor a linguagem python e suas integrações
+Chatbot desenvolvido em Python para utilização no Telegram, o bot interpreta texto e audio, com integração ao banco de dados MYSQL. a intenção do projeto foi conhecer melhor a linguagem python e suas integrações, o bot funciona atrás de métodos que intepretam os dados fornecidos pelo usuário e comparam com dicionarios de palavras. Tem como uma de suas funcionalidades de aprender com o usuário para assim estar em constande aprendizado
 # Principais libs 📚
   - [**mysql-connector**](https://pypi.org/project/mysql-connector-python/)
   - [**Telepot**](https://pypi.org/project/telepot/)
