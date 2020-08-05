@@ -1,5 +1,6 @@
 import json
 from banco import *
+import os
 from datetime import datetime
 class Chatbot():
     def __init__(self, nome):
@@ -7,6 +8,8 @@ class Chatbot():
             memoriaDic = open('Dicionarios/dic'+nome+'.json','r')
             memoriaUser = open('Dicionarios/user.json','r')
         except FileNotFoundError:
+            if os.path.exists('Dicionarios') == False:
+                os.mkdir("Dicionarios")
             memoriaDic = open('Dicionarios/dic'+nome+'.json','w')
             memoriaUser = open('Dicionarios/user.json','w')
             memoriaDic.write('{"oi":"Meu nome é Bot, tudo bem?", "tchau": "tchau"}')
